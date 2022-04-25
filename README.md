@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<h1 align="center">Hi 👋, I'm Ceren Dökmener</h1>
+<h3 align="center">A passionate mobile developer from Turkey</h3>
+
+
+
 <!--
 **CerenDokmener/CerenDokmener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
