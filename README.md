@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<p align="center">I’m an avid and eager student of Computer Science and practitioner of Software Development. I'm improving myself on mobile application technologies, especially on Flutter and Dart. I am also very eager to learn and improve my skills on syber security systems. I want to gain experince in the real field as well as my school courses. The way I learn something new is by getting my hands dirty on projects with different levels instead of always getting stuck on so much teory.</p>
+<p align="center">I’m an avid and eager student of Computer Science and practitioner of Software Development. I'm improving myself on mobile application technologies, especially on Flutter and Dart. I am also very eager to learn and improve my skills on cyber security systems. I want to gain experince in the real field as well as my school courses. The way I learn something new is by getting my hands dirty on projects with different levels instead of always getting stuck on so much teory.</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -24,4 +24,3 @@
 - 🌱 I’m currently learning Flutter, Dart and mobile technologies.
 - 🤔 I’m interested in syber security systems. 
 - 📫 How to reach me: ceren.dokmener@gmail.com
-- ⚡ Fun fact: ...
