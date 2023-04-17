@@ -16,5 +16,4 @@
 
 - 🔭 I’m currently working on mobile application development process.
 - 🌱 I’m currently learning Flutter, Dart and mobile technologies.
-- 🤔 I’m interested in syber security systems. 
 - 📫 How to reach me: ceren.dokmener@gmail.com
