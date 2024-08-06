@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ceren Dökmener</h1>
-<h3 align="center">trying to be a 'Mobile Application Developer'</h3>
+<h3 align="center">Mobile Application Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cerendokmener/" style="margin:0 10px">
